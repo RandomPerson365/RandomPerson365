@@ -48,8 +48,8 @@
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=RandomPerson365&theme=tokyonight&hide_border=true)
 
-### 📊 Contribution Timeline
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RandomPerson365&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Timeline&date_format=%b%20%Y)
+### 🗓️ Contribution Overview (Monthly)
+![Contribution Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RandomPerson365&theme=tokyonight)
 
 ---
 
