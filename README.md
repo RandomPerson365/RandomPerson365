@@ -1,54 +1,85 @@
-# 👋 Hello World, I’m RandomPerson365! 
+# 👋 Hello World, I'm RandomPerson365! 
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
 ## 🚀 About Me
+
 - 🎨 I love crafting **visual, interactive web experiences**
-- ⚡ Always exploring new tech and creative UI ideas
+- ⚡ Always exploring new tech and creative UI ideas  
 - 🌱 Currently learning **modern frontend + animations**
 - 🤝 Open to collaboration on fun, creative projects
 - ✨ Pronouns: He/Him
 
+<br><br>
+
 ---
 
 ## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://github.com/RandomPerson365"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" height="28" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" height="28" /></a>
-  <a href="https://twitter.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="28" height="28" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="28" height="28" /></a>
+  <a href="https://github.com/RandomPerson365" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧰 Languages & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/node.js.svg" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="32" height="32" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/figma.svg" width="32" height="32" />
-</p>
+## 🧰 Tech Stack
+
+<div align="left">
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  
+  <h3>Tools & Platforms</h3>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=RandomPerson365&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomPerson365&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RandomPerson365&theme=tokyonight&hide_border=true" />
+</div>
+
+### 📈 Detailed Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RandomPerson365&theme=tokyonight" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🎨 Improving UI/UX design skills
+- 💻 Mastering React and modern JavaScript
+- 🚀 Building interactive, animated web experiences
+- 🧠 Learning web performance optimization
+
+---
+
+## 💡 Let's Collaborate!
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RandomPerson365&show_icons=true&theme=tokyonight" />
+  <strong>Want to chat about design, code, or creative projects?</strong><br>
+  Feel free to reach out and connect!
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomPerson365&layout=compact&theme=tokyonight" />
+  ⭐ If you find my projects interesting, consider giving them a star!
 </p>
-
----
-
-## ✨ Featured Visual Profile
-This profile is powered by a custom interactive landing page:
-👉 https://github.com/RandomPerson365/RandomPerson365
-
----
-
-💡 _Want to collaborate or chat about design and code? Feel free to reach out!_
