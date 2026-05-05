@@ -46,20 +46,15 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=RandomPerson365&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomPerson365&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+  
+### 📈 Stats Overview
+  
+![RandomPerson365's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandomPerson365&show_icons=true&hide_title=false&count_private=false&theme=tokyonight&hide_border=false)
 
-### 🔥 Contribution Streak
+### 🔝 Top Languages
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomPerson365&layout=compact&theme=tokyonight&hide_border=false)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RandomPerson365&theme=tokyonight&hide_border=true" />
-</div>
-
-### 📈 Detailed Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RandomPerson365&theme=tokyonight" />
 </div>
 
 ---
