@@ -39,12 +39,16 @@
 
 ## 📊 GitHub Statistics
 
+### 📈 Stats Overview
 ![RandomPerson365's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandomPerson365&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
 
+### 🔝 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomPerson365&layout=compact&theme=tokyonight&hide_border=true)
 
+### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=RandomPerson365&theme=tokyonight&hide_border=true)
 
+### 📊 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RandomPerson365&theme=tokyo-night&hide_border=true)
 
 ---
